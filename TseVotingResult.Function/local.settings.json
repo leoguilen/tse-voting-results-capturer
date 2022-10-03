@@ -1,0 +1,9 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "TseApiConfig:BaseUrl": "https://resultados.tse.jus.br/oficial/ele2022/544/dados-simplificados/br/",
+    "TseApiConfig:DataSourcePath": "br-c0001-e000544-r.json"
+  }
+}
